@@ -1,8 +1,7 @@
 # netbeans-settings
 my netbeans settings
  
-- 绿豆色主题
-
+- 绿豆色主题（保护视力-、-） 
 - 一个php类的注释模版
 
 - 格式使用PSR-1/PSR-2
